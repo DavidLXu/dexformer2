@@ -1,0 +1,1449 @@
+{
+  "passed": true,
+  "clips": [
+    {
+      "index": 0,
+      "pair": "franka_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/00_franka_revo3_013_apple.npz",
+      "sha256": "4161eb0714ca6d6da21c11d8ac4854288d4572ac98134aca55b18fb0f4109563",
+      "row": {
+        "env": 2,
+        "morphology": "franka_revo3",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 90,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 221,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 239,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 313,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          221
+        ],
+        "arrival_steps": [
+          221
+        ],
+        "abnormal": false
+      },
+      "release": 221,
+      "settled": 313,
+      "done": 313,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.040032998441827665,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 1,
+      "pair": "kuka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/01_kuka_sharpa_005_tomato_soup_can.npz",
+      "sha256": "ec7cf0f1fc2726810188465ab49dd859b9788fa702540bb538fadf1c73022eec",
+      "row": {
+        "env": 43,
+        "morphology": "kuka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 94,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 293,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 311,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 385,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          293
+        ],
+        "arrival_steps": [
+          293
+        ],
+        "abnormal": false
+      },
+      "release": 293,
+      "settled": 360,
+      "done": 385,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.017306754086259785,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 2,
+      "pair": "flexiv_leap",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/02_flexiv_leap_014_lemon.npz",
+      "sha256": "975da60f687ba589d6121a0107be6981b46a57b02e076e5ee6ce7bc39169683f",
+      "row": {
+        "env": 229,
+        "morphology": "flexiv_leap",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 96,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 281,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 299,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 373,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          281
+        ],
+        "arrival_steps": [
+          281
+        ],
+        "abnormal": false
+      },
+      "release": 281,
+      "settled": 310,
+      "done": 373,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.021363262632358077,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 3,
+      "pair": "flexiv_shadow",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/03_flexiv_shadow_009_gelatin_box.npz",
+      "sha256": "ea26d7c376f8bd82db397fbaa7b6ffdf17a020a1adfd808cae4ddfc39c700a88",
+      "row": {
+        "env": 34,
+        "morphology": "flexiv_shadow",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 109,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 332,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 350,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 424,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          332
+        ],
+        "arrival_steps": [
+          332
+        ],
+        "abnormal": false
+      },
+      "release": 332,
+      "settled": 408,
+      "done": 424,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.028385959046962173,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 4,
+      "pair": "franka_allegro",
+      "object_id": "017_orange",
+      "file": "$CLIPS/04_franka_allegro_017_orange.npz",
+      "sha256": "56f08c584a86fd673fec9b57798462f5e74578e487d80796f96bd83ef8ce5993",
+      "row": {
+        "env": 234,
+        "morphology": "franka_allegro",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 90,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 243,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 261,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 335,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          243
+        ],
+        "arrival_steps": [
+          243
+        ],
+        "abnormal": false
+      },
+      "release": 243,
+      "settled": 295,
+      "done": 335,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.028728461186200524,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 5,
+      "pair": "xarm_revo3",
+      "object_id": "018_plum",
+      "file": "$CLIPS/05_xarm_revo3_018_plum.npz",
+      "sha256": "7ebeb5fe68d357954d835576171f3db6076089ddae5ae45c4dbf4bfde8ffbfda",
+      "row": {
+        "env": 10,
+        "morphology": "xarm_revo3",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 84,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 313,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 331,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 405,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          313
+        ],
+        "arrival_steps": [
+          313
+        ],
+        "abnormal": false
+      },
+      "release": 313,
+      "settled": 361,
+      "done": 405,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.0557784471618445,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 6,
+      "pair": "franka_leap",
+      "object_id": "010_potted_meat_can",
+      "file": "$CLIPS/06_franka_leap_010_potted_meat_can.npz",
+      "sha256": "d474a1de50abe25e37a2c746cf5a01c7ee96feb807368a5e9ef28788a724e590",
+      "row": {
+        "env": 6,
+        "morphology": "franka_leap",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 85,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 223,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 241,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 315,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          223
+        ],
+        "arrival_steps": [
+          223
+        ],
+        "abnormal": false
+      },
+      "release": 223,
+      "settled": 248,
+      "done": 315,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.01297339241691807,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 7,
+      "pair": "franka_shadow",
+      "object_id": "016_pear",
+      "file": "$CLIPS/07_franka_shadow_016_pear.npz",
+      "sha256": "9746342c8f3efa85bbaf839c1e07a8913852797d9891c20e7d4889c4b4249207",
+      "row": {
+        "env": 165,
+        "morphology": "franka_shadow",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 94,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 252,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 270,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 344,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          252
+        ],
+        "arrival_steps": [
+          252
+        ],
+        "abnormal": false
+      },
+      "release": 252,
+      "settled": 284,
+      "done": 344,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.04284727124783506,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 8,
+      "pair": "flexiv_rapid",
+      "object_id": "015_peach",
+      "file": "$CLIPS/08_flexiv_rapid_015_peach.npz",
+      "sha256": "c700ab8aae82ec6a9a1e660e03d9d49e37c522355eea7f616c64c20d6703e878",
+      "row": {
+        "env": 105,
+        "morphology": "flexiv_rapid",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 80,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 296,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 314,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 388,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          296
+        ],
+        "arrival_steps": [
+          296
+        ],
+        "abnormal": false
+      },
+      "release": 296,
+      "settled": 356,
+      "done": 388,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.025084043601638267,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 9,
+      "pair": "xarm_leap",
+      "object_id": "007_tuna_fish_can",
+      "file": "$CLIPS/09_xarm_leap_007_tuna_fish_can.npz",
+      "sha256": "bd2b7768a5bc8fd007bcf06c304fc0ac670b069dc9f79a849f143804da4b4002",
+      "row": {
+        "env": 170,
+        "morphology": "xarm_leap",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 82,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 257,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 275,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 349,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          257
+        ],
+        "arrival_steps": [
+          257
+        ],
+        "abnormal": false
+      },
+      "release": 257,
+      "settled": 280,
+      "done": 349,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.009962306568418997,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 10,
+      "pair": "kuka_revo3",
+      "object_id": "rb_banana_010",
+      "file": "$CLIPS/10_kuka_revo3_rb_banana_010.npz",
+      "sha256": "9a7105f202ee78e7dbdf2011af2aab0a5bd51aa2c90e79cbaeb4b1e909ee07e1",
+      "row": {
+        "env": 60,
+        "morphology": "kuka_revo3",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 103,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 251,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 269,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 343,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          251
+        ],
+        "arrival_steps": [
+          251
+        ],
+        "abnormal": false
+      },
+      "release": 251,
+      "settled": 281,
+      "done": 343,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.017112193949496757,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 11,
+      "pair": "franka_rapid",
+      "object_id": "rb_massage_ball_028",
+      "file": "$CLIPS/11_franka_rapid_rb_massage_ball_028.npz",
+      "sha256": "77e5a047e74ff0d6c188db8dddc0b0f454e2c3c0b4728cdb18acbceb2e08aa74",
+      "row": {
+        "env": 1,
+        "morphology": "franka_rapid",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 87,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 304,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 322,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 396,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          304
+        ],
+        "arrival_steps": [
+          304
+        ],
+        "abnormal": false
+      },
+      "release": 304,
+      "settled": 358,
+      "done": 396,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.015450459793016055,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 12,
+      "pair": "franka_sharpa",
+      "object_id": "rb_mouse_074",
+      "file": "$CLIPS/12_franka_sharpa_rb_mouse_074.npz",
+      "sha256": "411ad6d179c6141ffc817d744b75f24b54ae84f957e2a536bdb13feefc638dc5",
+      "row": {
+        "env": 55,
+        "morphology": "franka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 96,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 253,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 271,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 345,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          253
+        ],
+        "arrival_steps": [
+          253
+        ],
+        "abnormal": false
+      },
+      "release": 253,
+      "settled": 275,
+      "done": 345,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.00391965240138166,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 13,
+      "pair": "kuka_rapid",
+      "object_id": "rb_controller_005",
+      "file": "$CLIPS/13_kuka_rapid_rb_controller_005.npz",
+      "sha256": "46e85c2ddeba9e3cf0f91ccee016c42e7aa1e2b6cf5e0388f537c003eae6dc4c",
+      "row": {
+        "env": 131,
+        "morphology": "kuka_rapid",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 91,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 260,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 278,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 352,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          260
+        ],
+        "arrival_steps": [
+          260
+        ],
+        "abnormal": false
+      },
+      "release": 260,
+      "settled": 299,
+      "done": 352,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.03267610028992037,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 14,
+      "pair": "kuka_shadow",
+      "object_id": "rb_dish_soap_bottle_008",
+      "file": "$CLIPS/14_kuka_shadow_rb_dish_soap_bottle_008.npz",
+      "sha256": "d4afb9fbf7c3e150dc5ba1a9d4c5076a70c5411cd2ef5516a5fd8fc66e43e796",
+      "row": {
+        "env": 27,
+        "morphology": "kuka_shadow",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 107,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 318,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 336,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 410,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          318
+        ],
+        "arrival_steps": [
+          318
+        ],
+        "abnormal": false
+      },
+      "release": 318,
+      "settled": 342,
+      "done": 410,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.03927843713387503,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 15,
+      "pair": "xarm_sharpa",
+      "object_id": "rb_box_003",
+      "file": "$CLIPS/15_xarm_sharpa_rb_box_003.npz",
+      "sha256": "0dd559d9f4e9a859fd2bb134fb3541996067a3ceff9b1c97956261c84b5b5a9c",
+      "row": {
+        "env": 12,
+        "morphology": "xarm_sharpa",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 76,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 270,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 288,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 362,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          270
+        ],
+        "arrival_steps": [
+          270
+        ],
+        "abnormal": false
+      },
+      "release": 270,
+      "settled": 306,
+      "done": 362,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.024936379270946107,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 16,
+      "pair": "flexiv_allegro",
+      "object_id": "rb_glass_011",
+      "file": "$CLIPS/16_flexiv_allegro_rb_glass_011.npz",
+      "sha256": "ac2e5ceb02ce5f4a40bc8c3822d0e2088a77ae8c3f43ed04cb00d64f335641a6",
+      "row": {
+        "env": 86,
+        "morphology": "flexiv_allegro",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 75,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 288,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 306,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 380,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          288
+        ],
+        "arrival_steps": [
+          288
+        ],
+        "abnormal": false
+      },
+      "release": 288,
+      "settled": 313,
+      "done": 380,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.03733132054283235,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 17,
+      "pair": "kuka_leap",
+      "object_id": "rb_mooncake_014",
+      "file": "$CLIPS/17_kuka_leap_rb_mooncake_014.npz",
+      "sha256": "32cd68d97f5e672329edb4dcf5b1629e9c105973c62b686e08027f7f7e45a757",
+      "row": {
+        "env": 148,
+        "morphology": "kuka_leap",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 90,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 233,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 251,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 325,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          233
+        ],
+        "arrival_steps": [
+          233
+        ],
+        "abnormal": false
+      },
+      "release": 233,
+      "settled": 281,
+      "done": 325,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.0156930532596304,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 18,
+      "pair": "xarm_allegro",
+      "object_id": "rb_correction_tape_002",
+      "file": "$CLIPS/18_xarm_allegro_rb_correction_tape_002.npz",
+      "sha256": "9a2f3c2cd9192a008ae6115a36f61dc30d77a8cbfd90bb1fd5e97a487600475d",
+      "row": {
+        "env": 99,
+        "morphology": "xarm_allegro",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 85,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 325,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 343,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 417,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          325
+        ],
+        "arrival_steps": [
+          325
+        ],
+        "abnormal": false
+      },
+      "release": 325,
+      "settled": 356,
+      "done": 417,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.039222078860524597,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 19,
+      "pair": "xarm_rapid",
+      "object_id": "rb_lock_027",
+      "file": "$CLIPS/19_xarm_rapid_rb_lock_027.npz",
+      "sha256": "97889182075f70ae9ab5a5162072f6f1ca85a9de95c955d146bd213c351a14d5",
+      "row": {
+        "env": 22,
+        "morphology": "xarm_rapid",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 99,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 336,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 354,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 428,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          336
+        ],
+        "arrival_steps": [
+          336
+        ],
+        "abnormal": false
+      },
+      "release": 336,
+      "settled": 360,
+      "done": 428,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.019839086935895298,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 20,
+      "pair": "kuka_allegro",
+      "object_id": "rb_ink_bottles_020",
+      "file": "$CLIPS/20_kuka_allegro_rb_ink_bottles_020.npz",
+      "sha256": "5b9fe82dffdaa5f0c4abf3edd0c4afeeb97fbbef85a96d1c258b3b8b18caa9ad",
+      "row": {
+        "env": 14,
+        "morphology": "kuka_allegro",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 98,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 257,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 275,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 349,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          257
+        ],
+        "arrival_steps": [
+          257
+        ],
+        "abnormal": false
+      },
+      "release": 257,
+      "settled": 300,
+      "done": 349,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.023757931422064324,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 21,
+      "pair": "flexiv_revo3",
+      "object_id": "rb_air_conditioner_remote_003",
+      "file": "$CLIPS/21_flexiv_revo3_rb_air_conditioner_remote_003.npz",
+      "sha256": "ef72cfb24172a456237a1adf3028e856d221ce79e2c33b488fc3965dbf8faf51",
+      "row": {
+        "env": 11,
+        "morphology": "flexiv_revo3",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 125,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 348,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 366,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 440,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          348
+        ],
+        "arrival_steps": [
+          348
+        ],
+        "abnormal": false
+      },
+      "release": 348,
+      "settled": 440,
+      "done": 440,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.010737994633288436,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 22,
+      "pair": "xarm_shadow",
+      "object_id": "rb_ceramic_vase_001",
+      "file": "$CLIPS/22_xarm_shadow_rb_ceramic_vase_001.npz",
+      "sha256": "e5b42006ef5ac4d81b6e6772a6377af53d6f5e4f21f66495ce03341b66004afb",
+      "row": {
+        "env": 119,
+        "morphology": "xarm_shadow",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 107,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 294,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 312,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 386,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          294
+        ],
+        "arrival_steps": [
+          294
+        ],
+        "abnormal": false
+      },
+      "release": 294,
+      "settled": 348,
+      "done": 386,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.022082791845631264,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    },
+    {
+      "index": 23,
+      "pair": "flexiv_sharpa",
+      "object_id": "rb_fig_011",
+      "file": "$CLIPS/23_flexiv_sharpa_rb_fig_011.npz",
+      "sha256": "cb95e08b476c8d9c7ca7f51d42d3903601c1addc4a42c9a4fe2cca4a23c2fd6b",
+      "row": {
+        "env": 107,
+        "morphology": "flexiv_sharpa",
+        "success": true,
+        "cycles_success": [
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 94,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 271,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 289,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 363,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 0
+          }
+        ],
+        "release_steps": [
+          271
+        ],
+        "arrival_steps": [
+          271
+        ],
+        "abnormal": false
+      },
+      "release": 271,
+      "settled": 311,
+      "done": 363,
+      "source": "source-record/summary.json",
+      "cell_edge_margin_m": 0.011066333311450668,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e"
+    }
+  ],
+  "unique_pairs": 24,
+  "unique_objects": 24,
+  "physical_cell_drop": true,
+  "policy_grasp_external_transfer_and_release": true
+}

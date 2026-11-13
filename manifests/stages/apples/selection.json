@@ -1,0 +1,782 @@
+{
+  "clips": [
+    {
+      "pair": "franka_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_revo3.npz",
+      "sha256": "fcb45e5f13f6735c6495257089a78176384b216cc98d1021d2520dd5b6beb2f9",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 128,
+      "source_start": 40,
+      "source_end": 129,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 128,
+        "morphology": "franka_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "franka_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_sharpa.npz",
+      "sha256": "18fb278507791c776e1a2171a6b996043dd2fca1657df80836f4e303ff94de2b",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "220d55fd19c15de17decb54edde8c0ccc67cd4e5faee4f5db29352881c870cf0",
+      "source_env": 31,
+      "source_start": 34,
+      "source_end": 123,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 31,
+        "morphology": "franka_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "unseen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "franka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_leap.npz",
+      "sha256": "24d954ba0fff64b9c4fc49aa5bd559546e453447a0580277eccb914a2be64585",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "220d55fd19c15de17decb54edde8c0ccc67cd4e5faee4f5db29352881c870cf0",
+      "source_env": 54,
+      "source_start": 33,
+      "source_end": 122,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 54,
+        "morphology": "franka_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "unseen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "franka_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_allegro.npz",
+      "sha256": "3796aed001448d775c9a571eefd5e2c299b8bc4f6bd366e78bbc7b8e6fb6151a",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 144,
+      "source_start": 34,
+      "source_end": 124,
+      "frames": 91,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 144,
+        "morphology": "franka_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "franka_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_rapid.npz",
+      "sha256": "6b9ca5a868411f67dd14a7ede258c66a2b85419cbe90dd8eb12535dce854f1ef",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 1,
+      "source_start": 34,
+      "source_end": 123,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 1,
+        "morphology": "franka_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "franka_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_shadow.npz",
+      "sha256": "f9cf9a17e8c3c75dc664ba4b4a653d76984ee305a334896d8f7d07c4355ba5a7",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 21,
+      "source_start": 42,
+      "source_end": 131,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 21,
+        "morphology": "franka_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "flexiv_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_revo3.npz",
+      "sha256": "a05e5d89009db17867927cc4bb3e04ac1564e85a191f3ad268acb102249d237b",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "220d55fd19c15de17decb54edde8c0ccc67cd4e5faee4f5db29352881c870cf0",
+      "source_env": 71,
+      "source_start": 51,
+      "source_end": 140,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 71,
+        "morphology": "flexiv_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "unseen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "flexiv_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_sharpa.npz",
+      "sha256": "e8342f3e4a5112a5ff267a234ed3df265ea5fa61a6ce739b9767aa66cc79d992",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 143,
+      "source_start": 36,
+      "source_end": 125,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 143,
+        "morphology": "flexiv_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "flexiv_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_leap.npz",
+      "sha256": "ca04b93341cd3a7879666d8dc533f619e9de4db6bd3adc38533bdaf771f84e84",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 139,
+      "source_start": 37,
+      "source_end": 126,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 139,
+        "morphology": "flexiv_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "flexiv_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_allegro.npz",
+      "sha256": "dcfefcaf68e1b760c709bbaf4436654d1169492aa09760135371d7b9965e3098",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 104,
+      "source_start": 32,
+      "source_end": 121,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 104,
+        "morphology": "flexiv_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "flexiv_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_rapid.npz",
+      "sha256": "257671013f064b3ec776ecdaca65912d9e4262f0114abe25ad29a3fb2bbc54e9",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 69,
+      "source_start": 31,
+      "source_end": 120,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 69,
+        "morphology": "flexiv_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "flexiv_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_shadow.npz",
+      "sha256": "ef7af1f9605965b0acad8055b14e4c3bc944ed4902ffd75705473dcef910d5ed",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 52,
+      "source_start": 38,
+      "source_end": 127,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 52,
+        "morphology": "flexiv_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "kuka_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_revo3.npz",
+      "sha256": "0b071c0067363585fc81e81acfe208abddf2bcec638ad3a2c687ad53d339853e",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 114,
+      "source_start": 50,
+      "source_end": 139,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 114,
+        "morphology": "kuka_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "kuka_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_sharpa.npz",
+      "sha256": "2928743c798d74916d296e60516bf34a63afb210bc4aca1a4336104261241d2b",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 79,
+      "source_start": 47,
+      "source_end": 136,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 79,
+        "morphology": "kuka_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "kuka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_leap.npz",
+      "sha256": "cd24b8162ed7bb04690c2810b85819164309984128549fdc47443581fcdfeabb",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 40,
+      "source_start": 51,
+      "source_end": 140,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 40,
+        "morphology": "kuka_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "kuka_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_allegro.npz",
+      "sha256": "7b177f95e86a5345d13f6f696c7212f24a49dcb9ac18666facadaa4762658295",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "220d55fd19c15de17decb54edde8c0ccc67cd4e5faee4f5db29352881c870cf0",
+      "source_env": 20,
+      "source_start": 49,
+      "source_end": 138,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 20,
+        "morphology": "kuka_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "unseen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "kuka_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_rapid.npz",
+      "sha256": "2ea5c2f4e473055e53c6a1fba4d07750ed00be4d5eedd332a3b192523736dbb3",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 23,
+      "source_start": 40,
+      "source_end": 129,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 23,
+        "morphology": "kuka_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "kuka_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_shadow.npz",
+      "sha256": "8fb20960d378511b587abfe520dcb6eeaf0e75635fbc3c1a76df29e8adf55a48",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "220d55fd19c15de17decb54edde8c0ccc67cd4e5faee4f5db29352881c870cf0",
+      "source_env": 45,
+      "source_start": 49,
+      "source_end": 138,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 45,
+        "morphology": "kuka_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "unseen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "xarm_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_revo3.npz",
+      "sha256": "ff795b4c1a9d4d44a0632f3b4520c581668fe649eb277fc16fd01876bfd6d294",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 82,
+      "source_start": 20,
+      "source_end": 109,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 82,
+        "morphology": "xarm_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "xarm_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_sharpa.npz",
+      "sha256": "293f7bd7e0f734b2d2b473b000fd59b99a76130da5248ec03e9c8165894e8de7",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 12,
+      "source_start": 20,
+      "source_end": 109,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 12,
+        "morphology": "xarm_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "xarm_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_leap.npz",
+      "sha256": "299139623bf451c125505f2a927104bbed563e605000b13c03f746429ef6b16f",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 134,
+      "source_start": 20,
+      "source_end": 109,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 134,
+        "morphology": "xarm_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "xarm_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_allegro.npz",
+      "sha256": "a27712bfe405aa9821ab1e240914cb9ad27b0ab720d13ee4d7ad4b6a5f827a48",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 45,
+      "source_start": 20,
+      "source_end": 109,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 45,
+        "morphology": "xarm_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "xarm_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_rapid.npz",
+      "sha256": "7bb4f34aa90ca8d41e166b4d154d0e00a666379327ea51c86fa80420ac9c07f9",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "220d55fd19c15de17decb54edde8c0ccc67cd4e5faee4f5db29352881c870cf0",
+      "source_env": 4,
+      "source_start": 21,
+      "source_end": 110,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 4,
+        "morphology": "xarm_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "unseen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    },
+    {
+      "pair": "xarm_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_shadow.npz",
+      "sha256": "aba7e8f2c7e8dceb03a333cd4676577ad3085749175a0c532df1dc6fdc389d9e",
+      "source": "source-record/trajectories.npz",
+      "source_sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "source_env": 101,
+      "source_start": 20,
+      "source_end": 109,
+      "frames": 90,
+      "source_fps": 60,
+      "output_fps": 30,
+      "speed": 0.5,
+      "row": {
+        "env": 101,
+        "morphology": "xarm_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "phase": "seen",
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "checkpoint_iteration": 5000
+    }
+  ],
+  "sources": [
+    {
+      "path": "source-record/trajectories.npz",
+      "sha256": "e1011b610d7845f5dccef5a59f3b9c8a5a2e75ab838a80ee505142a90f87dd4a",
+      "model": {
+        "variant": "morph16_healthy",
+        "policy_class": "ActorCriticCompositionMorphAttentionTransformerXL",
+        "parameters": 3069759,
+        "checkpoint": "source-record/model_5000.pt",
+        "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+        "checkpoint_iteration": 5000,
+        "memory": 16,
+        "source_run": "2026-10-22_06-25-19_composition18_test6_morph16_healthy_original_seed42_gpu4_5_env4096_formal_scratch31_20261022_142507",
+        "strict_load": true,
+        "observation_shapes": {
+          "policy": [
+            216,
+            94
+          ],
+          "proprio": [
+            216,
+            138
+          ],
+          "graph": [
+            216,
+            42
+          ],
+          "arm_graph": [
+            216,
+            42
+          ],
+          "hand_graph": [
+            216,
+            154
+          ],
+          "ee_palm_se3": [
+            216,
+            7
+          ],
+          "perception": [
+            216,
+            192
+          ],
+          "student_proprio": [
+            216,
+            29
+          ],
+          "little_tip": [
+            216,
+            14
+          ],
+          "morphology": [
+            216,
+            464
+          ],
+          "joint_topology": [
+            216,
+            58
+          ]
+        }
+      }
+    },
+    {
+      "path": "source-record/trajectories.npz",
+      "sha256": "220d55fd19c15de17decb54edde8c0ccc67cd4e5faee4f5db29352881c870cf0",
+      "model": {
+        "variant": "morph16_healthy",
+        "policy_class": "ActorCriticCompositionMorphAttentionTransformerXL",
+        "parameters": 3069759,
+        "checkpoint": "source-record/model_5000.pt",
+        "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+        "checkpoint_iteration": 5000,
+        "memory": 16,
+        "source_run": "2026-10-22_06-25-19_composition18_test6_morph16_healthy_original_seed42_gpu4_5_env4096_formal_scratch31_20261022_142507",
+        "strict_load": true,
+        "observation_shapes": {
+          "policy": [
+            72,
+            94
+          ],
+          "proprio": [
+            72,
+            138
+          ],
+          "graph": [
+            72,
+            42
+          ],
+          "arm_graph": [
+            72,
+            42
+          ],
+          "hand_graph": [
+            72,
+            154
+          ],
+          "ee_palm_se3": [
+            72,
+            7
+          ],
+          "perception": [
+            72,
+            192
+          ],
+          "student_proprio": [
+            72,
+            29
+          ],
+          "little_tip": [
+            72,
+            14
+          ],
+          "morphology": [
+            72,
+            464
+          ],
+          "joint_topology": [
+            72,
+            58
+          ]
+        }
+      }
+    }
+  ],
+  "selected_successes": true,
+  "simulation": true,
+  "source_actions": "Unmodified policy grasp segment only. Ends before target transfer or external finger opening.",
+  "fps_source": 60,
+  "fps_output": 30,
+  "speed": 0.5
+}

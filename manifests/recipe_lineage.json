@@ -1,0 +1,132 @@
+[
+  {
+    "file": "recipes/conveyor/build_scene.py",
+    "source_recipe": "video/conveyor_20261029/v20_final_reveal_flexiv_ik30/scripts/build_scene.py",
+    "source_sha256": "059ddd728eee0d2e17daa77e5cea9580db97b329607bbe8a21a87a8bcd24f28d"
+  },
+  {
+    "file": "recipes/ring/build_scene.py",
+    "source_recipe": "video/ring_collection_four_20261101/v4_coordinated_pacing/scripts/build_scene.py",
+    "source_sha256": "38de169923b569bbe5c24089dafe5802c8ca840a48c7c6231772e0ac43697073"
+  },
+  {
+    "file": "recipes/ring/pacing.py",
+    "source_recipe": "video/ring_collection_four_20261101/v4_coordinated_pacing/scripts/pacing.py",
+    "source_sha256": "adb88dcbeaffac5daec76b136dd41479030149d309f7eded012af325d0960a52"
+  },
+  {
+    "file": "recipes/ring/validate_pacing.py",
+    "source_recipe": "video/ring_collection_four_20261101/v4_coordinated_pacing/scripts/validate_pacing.py",
+    "source_sha256": "dc0d3cff3a17e2cfccd3e20922cd1b98d5a621f41ac23ed3bae377bbb2a5fec0"
+  },
+  {
+    "file": "recipes/table_base/build.py",
+    "source_recipe": "video/long_table_20261101/scripts/build.py",
+    "source_sha256": "9ebe4a1fd00dac48274d00041563c58d5cbe90acd6e0d6d6f04e92ea2e047e56"
+  },
+  {
+    "file": "recipes/table_base/native_helpers.py",
+    "source_recipe": "video/long_table_20261101/scripts/native_helpers.py",
+    "source_sha256": "09a1763485106b03a5e3c7221dbb5fe5e1c53d9bcc1730e10ad9c2afc7b941df"
+  },
+  {
+    "file": "recipes/table_base/kinematics.py",
+    "source_recipe": "video/long_table_20261101/scripts/kinematics.py",
+    "source_sha256": "301f8d022a13dded8369e46aab9e1348d50639352728b97e2c5dae0fb26072b8"
+  },
+  {
+    "file": "recipes/table_objects/build.py",
+    "source_recipe": "video/long_table_objects_first_20261101/scripts/build.py",
+    "source_sha256": "f86150224289209f8c06ad591383fd94689832953210ff97a707d5b63aa91975"
+  },
+  {
+    "file": "recipes/table_objects/kinematics.py",
+    "source_recipe": "video/long_table_objects_first_20261101/scripts/kinematics.py",
+    "source_sha256": "301f8d022a13dded8369e46aab9e1348d50639352728b97e2c5dae0fb26072b8"
+  },
+  {
+    "file": "recipes/table/patch_camera.py",
+    "source_recipe": "video/long_table_straight_20261101/scripts/patch_camera.py",
+    "source_sha256": "dc0f04d749b2f6c94ddfc579298d486c012ba50d68a3044db9052cdbdec9bb61"
+  },
+  {
+    "file": "recipes/table/kinematics.py",
+    "source_recipe": "video/long_table_straight_20261101/scripts/kinematics.py",
+    "source_sha256": "301f8d022a13dded8369e46aab9e1348d50639352728b97e2c5dae0fb26072b8"
+  },
+  {
+    "file": "recipes/packing/build.py",
+    "source_recipe": "video/order_packing_continuous_30s_20261102/scripts/build.py",
+    "source_sha256": "c65099763b4b03de7235b0b9e28982817e45b7c5261df4a3f192d40a8122c20a"
+  },
+  {
+    "file": "recipes/packing/native_helpers.py",
+    "source_recipe": "video/order_packing_continuous_30s_20261102/scripts/native_helpers.py",
+    "source_sha256": "09a1763485106b03a5e3c7221dbb5fe5e1c53d9bcc1730e10ad9c2afc7b941df"
+  },
+  {
+    "file": "recipes/packing/audit_native.py",
+    "source_recipe": "video/order_packing_continuous_30s_20261102/scripts/audit_native.py",
+    "source_sha256": "6de80bff819c3801f118ab8fc635de5da48ed7f7888546c39686cf0e3f763a98"
+  },
+  {
+    "file": "recipes/apples/build.py",
+    "source_recipe": "video/apple_grasps_24_20261101/scripts/build.py",
+    "source_sha256": "fe16f788c618a93f94c2b3b06ccca931c4b892c2db234543e949e795d64b7ef7"
+  },
+  {
+    "file": "recipes/apples/native_helpers.py",
+    "source_recipe": "video/apple_grasps_24_20261101/scripts/native_helpers.py",
+    "source_sha256": "09a1763485106b03a5e3c7221dbb5fe5e1c53d9bcc1730e10ad9c2afc7b941df"
+  },
+  {
+    "file": "recipes/apples/kinematics.py",
+    "source_recipe": "video/apple_grasps_24_20261101/scripts/kinematics.py",
+    "source_sha256": "301f8d022a13dded8369e46aab9e1348d50639352728b97e2c5dae0fb26072b8"
+  },
+  {
+    "file": "recipes/parade/build_movie.py",
+    "source_recipe": "video/teaser_20261027/scripts/build_movie.py",
+    "source_sha256": "5e2cd728e42ffb83d548fb8304f01943515576a5b00d47c8548508e0bbdf3703"
+  },
+  {
+    "file": "recipes/parade/art_direction.py",
+    "source_recipe": "video/teaser_20261027/scripts/art_direction.py",
+    "source_sha256": "7b77b834e18870f46aeac8c4514ffa80bf3997f7202f69a00252e9dc030266ea"
+  },
+  {
+    "file": "recipes/parade/refine_final.py",
+    "source_recipe": "video/teaser_20261027/scripts/refine_final.py",
+    "source_sha256": "c0362d7898122794f40dedb440bfeb390ae2827373b177b8bb3f64b9c619edf7"
+  },
+  {
+    "file": "recipes/parade/v2/revise_camera.py",
+    "source_recipe": "video/teaser_20261027/v2/scripts/revise_camera.py",
+    "source_sha256": "d424d3a473c97ef1eeda3da7733137facd112a9e47da87ac976a45ebb216da06"
+  },
+  {
+    "file": "recipes/parade/v3/prepare_reveal.py",
+    "source_recipe": "video/teaser_20261027/v3/scripts/prepare_reveal.py",
+    "source_sha256": "018aa72b5a9c27ef2ca503300c1f48bf8dbae0cd4a858b243b5ada4563976b05"
+  },
+  {
+    "file": "recipes/parade/v3/compose_reveal.py",
+    "source_recipe": "video/teaser_20261027/v3/scripts/compose_reveal.py",
+    "source_sha256": "f6138f8301efc700cce52f974fa7c5e678a065952f0b455df4e6a2e8158b6684"
+  },
+  {
+    "file": "recipes/parade/v4/build_intro.py",
+    "source_recipe": "video/teaser_20261027/v4/scripts/build_intro.py",
+    "source_sha256": "50db2c35afecef521d0b79315057fbd1435c695ed8e21a80d6e9ba2684d902a5"
+  },
+  {
+    "file": "recipes/parade/v5/build_v5.py",
+    "source_recipe": "video/teaser_20261027/v5/scripts/build_v5.py",
+    "source_sha256": "c914337230da934610eef9f59445aff8e28540092303c89975d081a2e9d74305"
+  },
+  {
+    "file": "recipes/parade/v5/finish_movie.py",
+    "source_recipe": "video/teaser_20261027/v5/scripts/finish_movie.py",
+    "source_sha256": "a9bcf8d99bd972185f48ad55f01b9e21682163de5f2d0f1d39930dbe08320774"
+  }
+]

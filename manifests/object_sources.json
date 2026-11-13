@@ -1,0 +1,772 @@
+{
+  "source": "RevoBench registry -> ManiTwin-100K",
+  "objects": [
+    {
+      "object_id": "rb_banana_010",
+      "registry_key": "obj.banana_010",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object banana/010; base_rescaled.usdz; bbox dims=(0.042, 0.179, 0.086) m. Caption sample: elongated peeled banana skin object for eating.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/banana/010/base_rescaled.usdz",
+        "table_z_offset": 0.043241,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "food",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Banana 10",
+        "domains": [
+          "kitchen_dining"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "food"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "prepare"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.banana_010"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/banana/010/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "3e3180fbc0cfb20841461bcb94cbf1d459917dd9246752b953b07621f358b295",
+      "bytes": 9667111
+    },
+    {
+      "object_id": "rb_fig_011",
+      "registry_key": "obj.fig_011",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object fig/011; base_rescaled.usdz; bbox dims=(0.201, 0.159, 0.221) m. Caption sample: fig typically made of juicy flesh.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/fig/011/base_rescaled.usdz",
+        "table_z_offset": 0.110637,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "food",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Fig 11",
+        "domains": [
+          "kitchen_dining"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "food"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "prepare"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.fig_011"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/fig/011/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "f607521ab9bdd3cd6c29d4066c25aaa95839d1a6ab0e29f8386b8a768365f920",
+      "bytes": 12363906
+    },
+    {
+      "object_id": "rb_mooncake_014",
+      "registry_key": "obj.mooncake_014",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object mooncake/014; base_rescaled.usdz; bbox dims=(0.202, 0.105, 0.2) m. Caption sample: compact decorative fluted sides for creating decorative patterns.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/mooncake/014/base_rescaled.usdz",
+        "table_z_offset": 0.09959,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "food",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Mooncake 14",
+        "domains": [
+          "kitchen_dining"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "food"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "prepare"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.mooncake_014"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/mooncake/014/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "7db040415c7d0f6a581b0427957132239a9364a5aa20ab2e72a027ce109220da",
+      "bytes": 12768342
+    },
+    {
+      "object_id": "rb_mouse_074",
+      "registry_key": "obj.mouse_074",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object mouse/074; base_rescaled.usdz; bbox dims=(0.052, 0.12, 0.031) m. Caption sample: gray mouse used for navigating.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/mouse/074/base_rescaled.usdz",
+        "table_z_offset": 0.01535,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "office",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Mouse 74",
+        "domains": [
+          "office_study"
+        ],
+        "size_class": "small",
+        "composition": "single",
+        "roles": [
+          "office_supply"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.mouse_074"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/mouse/074/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "51037e010daf2b443772343701b342b558bd865a44f5d9f665cbad3f58a559c1",
+      "bytes": 9545807
+    },
+    {
+      "object_id": "rb_controller_005",
+      "registry_key": "obj.controller_005",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object controller/005; base_rescaled.usdz; bbox dims=(0.18, 0.061, 0.12) m. Caption sample: controlling characters use of PS4 controller.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/controller/005/base_rescaled.usdz",
+        "table_z_offset": 0.059968,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "office",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Controller 5",
+        "domains": [
+          "office_study"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "office_supply"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.controller_005"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/controller/005/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "49b0144976166cb3e907fc1a40e6fc08f288139c55a0fc74a2aed90c8a79db1e",
+      "bytes": 13300529
+    },
+    {
+      "object_id": "rb_air_conditioner_remote_003",
+      "registry_key": "obj.air_conditioner_remote_003",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object air_conditioner_remote/003; base_rescaled.usdz; bbox dims=(0.058, 0.04, 0.149) m. Caption sample: handheld remote control used for controlling electronic devices.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/air_conditioner_remote/003/base_rescaled.usdz",
+        "table_z_offset": 0.074628,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "office",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Air Conditioner Remote 3",
+        "domains": [
+          "office_study"
+        ],
+        "size_class": "small",
+        "composition": "single",
+        "roles": [
+          "office_supply"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.air_conditioner_remote_003"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/air_conditioner_remote/003/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "37c4187c3016abaa8354052a93a5b0e6e192aaae2a329524aa22a606b6f8d2f7",
+      "bytes": 10364814
+    },
+    {
+      "object_id": "rb_ink_bottles_020",
+      "registry_key": "obj.ink_bottles_020",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object ink_bottles/020; base_rescaled.usdz; bbox dims=(0.093, 0.093, 0.12) m. Caption sample: inkwell optimized for holding ink.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/ink_bottles/020/base_rescaled.usdz",
+        "table_z_offset": 0.059992,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "container",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Ink Bottles 20",
+        "domains": [
+          "household"
+        ],
+        "size_class": "small",
+        "composition": "single",
+        "roles": [
+          "container",
+          "household_item"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "contain",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.ink_bottles_020"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/ink_bottles/020/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "d4d38e8576d322060133155ec63e0a5ccd2dbd70ad170971afae57634e1f2e87",
+      "bytes": 13742276
+    },
+    {
+      "object_id": "rb_massage_ball_028",
+      "registry_key": "obj.massage_ball_028",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object massage_ball/028; base_rescaled.usdz; bbox dims=(0.12, 0.125, 0.119) m. Caption sample: gray accents textured sphere designed for stress relief.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/massage_ball/028/base_rescaled.usdz",
+        "table_z_offset": 0.05936,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "household",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Massage Ball 28",
+        "domains": [
+          "household"
+        ],
+        "size_class": "small",
+        "composition": "single",
+        "roles": [
+          "household_item"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.massage_ball_028"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/massage_ball/028/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "4048a82301bd816c8ec845abdba8c758d8e3e12557983a6c70dd039625f15161",
+      "bytes": 11171897
+    },
+    {
+      "object_id": "rb_lock_027",
+      "registry_key": "obj.lock_027",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object lock/027; base_rescaled.usdz; bbox dims=(0.076, 0.031, 0.12) m. Caption sample: padlock commonly found in small size.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/lock/027/base_rescaled.usdz",
+        "table_z_offset": 0.060089,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "tool",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Lock 27",
+        "domains": [
+          "workbench_tool"
+        ],
+        "size_class": "small",
+        "composition": "single",
+        "roles": [
+          "tool"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "tool_use"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.lock_027"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/lock/027/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "c5a585d261a916dbb9b70fc357bbf03177d1ca0b3e1e47d7d9f02cf10f582418",
+      "bytes": 9247707
+    },
+    {
+      "object_id": "rb_dish_soap_bottle_008",
+      "registry_key": "obj.dish_soap_bottle_008",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object dish_soap_bottle/008; base_rescaled.usdz; bbox dims=(0.084, 0.06, 0.22) m. Caption sample: deep blue plastic Terra mouthwash.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/dish_soap_bottle/008/base_rescaled.usdz",
+        "table_z_offset": 0.110032,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "household",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Dish Soap Bottle 8",
+        "domains": [
+          "cleaning_sorting",
+          "household"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "cleaning_item",
+          "household_item"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "clean",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.dish_soap_bottle_008"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/dish_soap_bottle/008/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "dfceb843c43916ec9bf3fec94b6a494b7665acd5e8292c05678fbb8619d57d99",
+      "bytes": 11781585
+    },
+    {
+      "object_id": "rb_correction_tape_002",
+      "registry_key": "obj.correction_tape_002",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object correction_tape/002; base_rescaled.usdz; bbox dims=(0.063, 0.15, 0.071) m. Caption sample: metal rounded rectangle candy wrapper.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/correction_tape/002/base_rescaled.usdz",
+        "table_z_offset": 0.035374,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "office",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Correction Tape 2",
+        "domains": [
+          "office_study"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "office_supply"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.correction_tape_002"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/correction_tape/002/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "a6afdd76c97dbb4ec0df9a4b190acd85612963efa4c166519b6370ccde1b309a",
+      "bytes": 10295484
+    },
+    {
+      "object_id": "rb_box_003",
+      "registry_key": "obj.box_003",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object box/003; base_rescaled.usdz; bbox dims=(0.15, 0.125, 0.119) m. Caption sample: package with open top profile.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/box/003/base_rescaled.usdz",
+        "table_z_offset": 0.059747,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "container",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Box 3",
+        "domains": [
+          "household"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "container",
+          "household_item"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "contain",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.box_003"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/box/003/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "a86737cf091f3b0449d6262c5de47d28b186b03ee12b270480eb3e4e8d6ec738",
+      "bytes": 9427355
+    },
+    {
+      "object_id": "rb_ceramic_vase_001",
+      "registry_key": "obj.ceramic_vase_001",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object ceramic_vase/001; base_rescaled.usdz; bbox dims=(0.109, 0.107, 0.182) m. Caption sample: curved handle pitcher used for pouring liquids.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/ceramic_vase/001/base_rescaled.usdz",
+        "table_z_offset": 0.090965,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "container",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Ceramic Vase 1",
+        "domains": [
+          "household"
+        ],
+        "size_class": "medium",
+        "composition": "single",
+        "roles": [
+          "container",
+          "household_item"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "contain",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.ceramic_vase_001"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/ceramic_vase/001/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "09b0209bf53cf43239a4836a566d6cd56c51e84ef9f7bbf0ebe7a910d6032946",
+      "bytes": 10877887
+    },
+    {
+      "object_id": "rb_glass_011",
+      "registry_key": "obj.glass_011",
+      "registry_record": {
+        "kind": "rigid",
+        "description": "ManiTwin selected object glass/011; base_rescaled.usdz; bbox dims=(0.091, 0.091, 0.12) m. Caption sample: cylinder-shaped candle jar.",
+        "usd_path": "assets/external/dexverse/assets/mani_twin_selected/glass/011/base_rescaled.usdz",
+        "table_z_offset": 0.060015,
+        "mass": 0.12,
+        "define_root_rigid": true,
+        "kinematic": false,
+        "tags": [
+          "dexverse",
+          "mani_twin_selected",
+          "container",
+          "rigid",
+          "usdz",
+          "bbox_table_aligned",
+          "visual_collision_unverified"
+        ],
+        "display_name": "Glass 11",
+        "domains": [
+          "household"
+        ],
+        "size_class": "small",
+        "composition": "single",
+        "roles": [
+          "container",
+          "household_item"
+        ],
+        "affordances": [
+          "preview",
+          "grasp",
+          "contain",
+          "place"
+        ],
+        "mechanisms": [
+          "rigid"
+        ],
+        "source_families": [
+          "mani_twin_selected"
+        ],
+        "migration_status": [
+          "registered",
+          "layout_resolves",
+          "preview_layout_available",
+          "visual_collision_unverified"
+        ],
+        "source_registry": "mani_twin_selected",
+        "source_asset_key": "dexverse.mani_twin.glass_011"
+      },
+      "url": "https://huggingface.co/datasets/ManiTwin/ManiTwin-100K/resolve/main/ManiTwin-100K/glass/011/base_rescaled.usdz",
+      "path": "source-record/base_rescaled.usdz",
+      "sha256": "782c118cc412e17e86d88f9aafb6a7b157562be669cb2b310f4efbe185ef3cb5",
+      "bytes": 9989289
+    }
+  ]
+}

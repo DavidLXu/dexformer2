@@ -1,0 +1,1760 @@
+{
+  "clips": [
+    {
+      "smoothness_score": 69.02800567626953,
+      "pair": "franka_revo3",
+      "file": "$CLIPS/franka_revo3.npz",
+      "sha256": "9b793a1a4414c44041387ddf4f4bf91560d6fa17f348b42acfe4978820c4c51e",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 92,
+        "morphology": "franka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 120,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 204,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 222,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 296,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 345,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 508,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 526,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 600,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 688,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 807,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 825,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 899,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 1112,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1258,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1276,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1350,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          204,
+          508,
+          807,
+          1258
+        ],
+        "arrival_steps": [
+          204,
+          508,
+          807,
+          1258
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1350,
+      "min_edge_margin_m": 0.08120649899183885,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 45.77575241088867,
+      "pair": "kuka_leap",
+      "file": "$CLIPS/kuka_leap.npz",
+      "sha256": "e070f2b6cf555ab2b698baa7a1b4834a75fb3a801dbf3f06f5aa74e1e596af95",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 418,
+        "morphology": "kuka_leap",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 97,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 189,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 207,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 281,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 328,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 431,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 449,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 523,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 581,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 692,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 710,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 784,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 839,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1072,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1090,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1164,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          189,
+          431,
+          692,
+          1072
+        ],
+        "arrival_steps": [
+          189,
+          431,
+          692,
+          1072
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1164,
+      "min_edge_margin_m": 0.1786329100733206,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 66.77635437011719,
+      "pair": "flexiv_allegro",
+      "file": "$CLIPS/flexiv_allegro.npz",
+      "sha256": "75289f559a7bcf4ea18a2bded36c13372dfe82bbadbb7d3c1e787268730f15b9",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 356,
+        "morphology": "flexiv_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 165,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 262,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 280,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 354,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 447,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 595,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 613,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 687,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 756,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 883,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 901,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 975,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 1128,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1248,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1266,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1340,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          262,
+          595,
+          883,
+          1248
+        ],
+        "arrival_steps": [
+          262,
+          595,
+          883,
+          1248
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1340,
+      "min_edge_margin_m": 0.15034433349593657,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 65.49747161865213,
+      "pair": "xarm_shadow",
+      "file": "$CLIPS/xarm_shadow.npz",
+      "sha256": "acdc47b6deb92547f85b029f4fc8c7957ca52fdf557d8a4e684086e2fc723d35",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 83,
+        "morphology": "xarm_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 112,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 272,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 290,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 364,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 511,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 625,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 643,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 717,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 818,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 996,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 1014,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 1088,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 1187,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1330,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1348,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1422,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          272,
+          625,
+          996,
+          1330
+        ],
+        "arrival_steps": [
+          272,
+          625,
+          996,
+          1330
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1422,
+      "min_edge_margin_m": 0.09418525263342539,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 46.9773754119873,
+      "pair": "kuka_shadow",
+      "file": "$CLIPS/kuka_shadow.npz",
+      "sha256": "bd9ced22b0175aefd454858a80eb665eb93faf314eea5b93cce13b4bc185e042",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 111,
+        "morphology": "kuka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 110,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 203,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 221,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 295,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 360,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 526,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 544,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 618,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 676,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 770,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 788,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 862,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 988,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1183,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1201,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1275,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          203,
+          526,
+          770,
+          1183
+        ],
+        "arrival_steps": [
+          203,
+          526,
+          770,
+          1183
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1275,
+      "min_edge_margin_m": 0.13902965776839665,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 42.045217514038036,
+      "pair": "franka_shadow",
+      "file": "$CLIPS/franka_shadow.npz",
+      "sha256": "38627df222e8bdcfabe5ab813f858704335c6b759ffe58ba847b03c9d3798a33",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 21,
+        "morphology": "franka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 88,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 201,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 219,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 293,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 356,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 493,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 511,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 585,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 658,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 776,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 794,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 868,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 939,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1105,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1123,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1197,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          201,
+          493,
+          776,
+          1105
+        ],
+        "arrival_steps": [
+          201,
+          493,
+          776,
+          1105
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1197,
+      "min_edge_margin_m": 0.15393385078485738,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 36.498533477783155,
+      "pair": "flexiv_shadow",
+      "file": "$CLIPS/flexiv_shadow.npz",
+      "sha256": "7c539bdeb43233e9bffd2f1ca04e47e584799f6d76e96fc81ff492ba1ba5949f",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 412,
+        "morphology": "flexiv_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 125,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 335,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 353,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 427,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 579,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 672,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 690,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 764,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 886,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 991,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 1009,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 1083,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 1224,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1343,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1361,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1435,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          335,
+          672,
+          991,
+          1343
+        ],
+        "arrival_steps": [
+          335,
+          672,
+          991,
+          1343
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1435,
+      "min_edge_margin_m": 0.049562049386932205,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 36.57209579467772,
+      "pair": "kuka_sharpa",
+      "file": "$CLIPS/kuka_sharpa.npz",
+      "sha256": "24c1bae7143f1ccc49ec734871905e46d05a0da868313993b9cf704813191e03",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 403,
+        "morphology": "kuka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 101,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 190,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 208,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 282,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 424,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 512,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 530,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 604,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 746,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 877,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 895,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 969,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 1070,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1182,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1200,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1274,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          190,
+          512,
+          877,
+          1182
+        ],
+        "arrival_steps": [
+          190,
+          512,
+          877,
+          1182
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1274,
+      "min_edge_margin_m": 0.14472009441117356,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 67.00308914184563,
+      "pair": "xarm_revo3",
+      "file": "$CLIPS/xarm_revo3.npz",
+      "sha256": "b362a5c852720130b36c6edd8fa5bfbac4aa92f9117f27fa7af1a3d4bca384c5",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 262,
+        "morphology": "xarm_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 95,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 190,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 208,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 282,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 364,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 457,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 475,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 549,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 616,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 804,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 822,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 896,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 991,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1095,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1113,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1187,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          190,
+          457,
+          804,
+          1095
+        ],
+        "arrival_steps": [
+          190,
+          457,
+          804,
+          1095
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1187,
+      "min_edge_margin_m": 0.16428782891531457,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 72.10343383789049,
+      "pair": "flexiv_sharpa",
+      "file": "$CLIPS/flexiv_sharpa.npz",
+      "sha256": "835ebf36a9fccc74cb95dd2f0425aa7a0e1a27e4f4cf36c919e4340eaf166e80",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 197,
+        "morphology": "flexiv_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 118,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 194,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 212,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 286,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 375,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 443,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 461,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 535,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 591,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 672,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 690,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 764,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 826,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 927,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 945,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1019,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          194,
+          443,
+          672,
+          927
+        ],
+        "arrival_steps": [
+          194,
+          443,
+          672,
+          927
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1019,
+      "min_edge_margin_m": 0.08748844392655264,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 76.66579513549804,
+      "pair": "xarm_allegro",
+      "file": "$CLIPS/xarm_allegro.npz",
+      "sha256": "fb1f103cf0ffe9a5dfc739dfca639e66ffbac2bc0d737c0da77458142a445391",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 189,
+        "morphology": "xarm_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 94,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 182,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 200,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 274,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 366,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 525,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 543,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 617,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 705,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 825,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 843,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 917,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 1010,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1123,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1141,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1215,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          182,
+          525,
+          825,
+          1123
+        ],
+        "arrival_steps": [
+          182,
+          525,
+          825,
+          1123
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1215,
+      "min_edge_margin_m": 0.16953889781550546,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    },
+    {
+      "smoothness_score": 58.52932281494112,
+      "pair": "xarm_sharpa",
+      "file": "$CLIPS/xarm_sharpa.npz",
+      "sha256": "8137f29b19f0ca0516489e2aaa2a5eb21d1dea28689ad5e26670c62bf4810941",
+      "object_ids": [
+        "013_apple",
+        "005_tomato_soup_can",
+        "017_orange",
+        "014_lemon"
+      ],
+      "row": {
+        "env": 156,
+        "morphology": "xarm_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "events": [
+          {
+            "step": 35,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 131,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 211,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 229,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 303,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 369,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 445,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 463,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 540,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 2
+          },
+          {
+            "step": 600,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 2
+          },
+          {
+            "step": 759,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 2
+          },
+          {
+            "step": 777,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 2
+          },
+          {
+            "step": 851,
+            "from_state": 4,
+            "to_state": 1,
+            "cycle": 3
+          },
+          {
+            "step": 925,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 3
+          },
+          {
+            "step": 1029,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 3
+          },
+          {
+            "step": 1047,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 3
+          },
+          {
+            "step": 1121,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 3
+          }
+        ],
+        "release_steps": [
+          211,
+          445,
+          759,
+          1029
+        ],
+        "arrival_steps": [
+          211,
+          445,
+          759,
+          1029
+        ],
+        "abnormal": false
+      },
+      "source": "source-record/summary.json",
+      "complete_step": 1121,
+      "min_edge_margin_m": 0.149499243099067,
+      "checkpoint_sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+      "external_ik_transfer": true,
+      "external_low_return": true
+    }
+  ],
+  "stations": 12,
+  "objects_per_station": 4,
+  "physical_sequence": true,
+  "immediate_release": true
+}

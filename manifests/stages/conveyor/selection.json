@@ -1,0 +1,4356 @@
+{
+  "clips": [
+    {
+      "pair": "franka_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_allegro.npz",
+      "sha256": "0895310896b23abf2e4480e430acb85b5b8271c16895af93add135cfced83f9d",
+      "source": "seen",
+      "row": {
+        "env": 0,
+        "morphology": "franka_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31310558319091797,
+          0.6525030136108398
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 117,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 159,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 183,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 281,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 284,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 327,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 386,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 484,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          159,
+          362
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "franka_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_rapid.npz",
+      "sha256": "2cdad52166aa14a5da30b720ef002c281e7d6718d31bee7658e3006fb45ab81b",
+      "source": "seen",
+      "row": {
+        "env": 1,
+        "morphology": "franka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203556060791016,
+          0.6523065567016602
+        ],
+        "events": [
+          {
+            "step": 76,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 145,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 183,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 207,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 317,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 320,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 373,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 430,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 539,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          183,
+          406
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "franka_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_revo3.npz",
+      "sha256": "0f3b004a0305c877191c0007b812d78dace4355d39d1d61653188309df790c92",
+      "source": "seen",
+      "row": {
+        "env": 2,
+        "morphology": "franka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3126811981201172,
+          0.6521062850952148
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 117,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 154,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 178,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 267,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 270,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 318,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 355,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 379,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 449,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          154,
+          355
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "franka_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_shadow.npz",
+      "sha256": "2b43a2db75ee6e7b9a4c84aeb771746b991c35476b43665fa4aa47c263f2daa5",
+      "source": "seen",
+      "row": {
+        "env": 3,
+        "morphology": "franka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31252288818359375,
+          0.6526298522949219
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 130,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 162,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 186,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 286,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 289,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 351,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 384,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 408,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 478,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          162,
+          384
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "kuka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_leap.npz",
+      "sha256": "7ca37e1a1e725d3325aa6ea478d271b61cd502373347779eab938d0a4d27e9a4",
+      "source": "seen",
+      "row": {
+        "env": 4,
+        "morphology": "kuka_leap",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3124980926513672,
+          0.6524639129638672
+        ],
+        "events": [
+          {
+            "step": 78,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 141,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 196,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 220,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 298,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 301,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 419,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 443,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 520,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          196,
+          419
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "kuka_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_rapid.npz",
+      "sha256": "d285b0d8600e928c78878a7acb4040af9ae707af6b44ae0be9c7e08df5297cae",
+      "source": "seen",
+      "row": {
+        "env": 5,
+        "morphology": "kuka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3123493194580078,
+          0.6528768539428711
+        ],
+        "events": [
+          {
+            "step": 78,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 153,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 195,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 219,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 326,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 329,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 447,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 471,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 577,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          195,
+          447
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "kuka_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_revo3.npz",
+      "sha256": "4af5ee1e3591369ec6d3cf84ef8b8b250590329af64c6c8d52d22225413f6948",
+      "source": "seen",
+      "row": {
+        "env": 6,
+        "morphology": "kuka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3120555877685547,
+          0.6520042419433594
+        ],
+        "events": [
+          {
+            "step": 74,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 126,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 168,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 192,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 301,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 304,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 363,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 414,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 438,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 508,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          168,
+          414
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "kuka_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_sharpa.npz",
+      "sha256": "d2b85b9c098efd114028890789809383931f23f845636238dd18c45c0b74983d",
+      "source": "seen",
+      "row": {
+        "env": 25,
+        "morphology": "kuka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203770637512207,
+          0.6525435447692871
+        ],
+        "events": [
+          {
+            "step": 82,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 135,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 174,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 198,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 308,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 311,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 402,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 426,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 496,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          174,
+          402
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "flexiv_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_rapid.npz",
+      "sha256": "f359c3d3f157405482aa094d8dafb00e1829455f24efd6f00546e592465630e3",
+      "source": "seen",
+      "row": {
+        "env": 69,
+        "morphology": "flexiv_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31234264373779297,
+          0.6523857116699219
+        ],
+        "events": [
+          {
+            "step": 72,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 244,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 299,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 323,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 465,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 468,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 605,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 660,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 684,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 827,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          299,
+          660
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "franka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_leap.npz",
+      "sha256": "86744850b73582c6e6ee896ce197ef8503160576233e7e7aaa909f47dccb6afc",
+      "source": "unseen",
+      "row": {
+        "env": 0,
+        "morphology": "franka_leap",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31279897689819336,
+          0.6526241302490234
+        ],
+        "events": [
+          {
+            "step": 73,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 129,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 166,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 190,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 260,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 268,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 320,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 359,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 453,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          166,
+          359
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "kuka_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_allegro.npz",
+      "sha256": "e571b4045b673b50cab590ce07d8d4e019d25b30297e9ba84e8766bf7313d7a3",
+      "source": "unseen",
+      "row": {
+        "env": 2,
+        "morphology": "kuka_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31232213973999023,
+          0.6526856422424316
+        ],
+        "events": [
+          {
+            "step": 82,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 138,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 180,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 204,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 276,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 282,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 340,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 407,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 479,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          180,
+          383
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "kuka_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_shadow.npz",
+      "sha256": "fcb9e509b7f78d9ec25d81b5673deb567bc505320c82eef3ce37f2a4735140d0",
+      "source": "unseen",
+      "row": {
+        "env": 3,
+        "morphology": "kuka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31241369247436523,
+          0.6564264297485352
+        ],
+        "events": [
+          {
+            "step": 70,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 163,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 226,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 250,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 328,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 340,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 426,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 492,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 516,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 595,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          226,
+          492
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "franka_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_sharpa.npz",
+      "sha256": "17efc430af9aba080ef8bc4093694982b1097ea251424af4ac014a5e2838b2b9",
+      "source": "unseen",
+      "row": {
+        "env": 19,
+        "morphology": "franka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3122568130493164,
+          0.6524512767791748
+        ],
+        "events": [
+          {
+            "step": 69,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 136,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 175,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 199,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 269,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 277,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 341,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 407,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 477,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          175,
+          383
+        ],
+        "abnormal": false
+      },
+      "low_home": true
+    },
+    {
+      "pair": "flexiv_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_allegro.npz",
+      "sha256": "0c81a28537d8f109337ecbe13f174345bf86327ca01a7b7ee36dc613cbe49c21",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "flexiv_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_leap.npz",
+      "sha256": "e6b8b2318b2ee1fc6f462208b818d50f51d44aadba0a4e427e3eb6425ecffb93",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "flexiv_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_revo3.npz",
+      "sha256": "a49ea1cdfca6b8b7ebefe3eb1b81e1eeb574f48b3bd47171e898a13692a6707f",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "flexiv_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_shadow.npz",
+      "sha256": "0a2264360e2539d184fbbabd4e92b5d6c510eff89e0a4865fd58dfb37b4ace7b",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "flexiv_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_sharpa.npz",
+      "sha256": "4a00bf2ffb8cb454df6502eaacce2963cbb28a9f4f3c0edd9d752b35002752d7",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "xarm_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_allegro.npz",
+      "sha256": "47e8b039afd825818cd7c279ea949858b8890f9cc9f8917a032b248a97b8830f",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "xarm_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_leap.npz",
+      "sha256": "533b8e6257c7446fdcb5dee9870532949244e4047af3bd8f59e28c19a3592da3",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "xarm_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_rapid.npz",
+      "sha256": "0aae0247ed37d58c5ed3c7f554dd73f97676982f4b62c5c73126bf29ce6120d7",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "xarm_revo3",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_revo3.npz",
+      "sha256": "94cd5abfb8fc053a76ddca6e7c0d03d401f15db4df8ae049457778eba0bb5d14",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "xarm_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_shadow.npz",
+      "sha256": "c2982da5270b92d331bed422ae287f39770de45b20210b6513fbb33877c5186f",
+      "source": "v2_original",
+      "low_home": false
+    },
+    {
+      "pair": "xarm_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_sharpa.npz",
+      "sha256": "91869f6e6093360562b5c592f51ea77ade5ac23680b5edf12d05fc3b9e51e69a",
+      "source": "v2_original",
+      "low_home": false
+    }
+  ],
+  "ordered": [
+    {
+      "pair": "franka_revo3",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/franka_revo3.npz",
+      "sha256": "0f3b004a0305c877191c0007b812d78dace4355d39d1d61653188309df790c92",
+      "source": "seen",
+      "row": {
+        "env": 2,
+        "morphology": "franka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3126811981201172,
+          0.6521062850952148
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 117,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 154,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 178,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 267,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 270,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 318,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 355,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 379,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 449,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          154,
+          355
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "kuka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_leap.npz",
+      "sha256": "7ca37e1a1e725d3325aa6ea478d271b61cd502373347779eab938d0a4d27e9a4",
+      "source": "seen",
+      "row": {
+        "env": 4,
+        "morphology": "kuka_leap",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3124980926513672,
+          0.6524639129638672
+        ],
+        "events": [
+          {
+            "step": 78,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 141,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 196,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 220,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 298,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 301,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 419,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 443,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 520,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          196,
+          419
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "flexiv_sharpa",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/flexiv_sharpa.npz",
+      "sha256": "4a00bf2ffb8cb454df6502eaacce2963cbb28a9f4f3c0edd9d752b35002752d7",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "xarm_allegro",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_allegro.npz",
+      "sha256": "47e8b039afd825818cd7c279ea949858b8890f9cc9f8917a032b248a97b8830f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "kuka_revo3",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_revo3.npz",
+      "sha256": "4af5ee1e3591369ec6d3cf84ef8b8b250590329af64c6c8d52d22225413f6948",
+      "source": "seen",
+      "row": {
+        "env": 6,
+        "morphology": "kuka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3120555877685547,
+          0.6520042419433594
+        ],
+        "events": [
+          {
+            "step": 74,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 126,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 168,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 192,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 301,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 304,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 363,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 414,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 438,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 508,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          168,
+          414
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "kuka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_sharpa.npz",
+      "sha256": "d2b85b9c098efd114028890789809383931f23f845636238dd18c45c0b74983d",
+      "source": "seen",
+      "row": {
+        "env": 25,
+        "morphology": "kuka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203770637512207,
+          0.6525435447692871
+        ],
+        "events": [
+          {
+            "step": 82,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 135,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 174,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 198,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 308,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 311,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 402,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 426,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 496,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          174,
+          402
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "kuka_rapid",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/kuka_rapid.npz",
+      "sha256": "d285b0d8600e928c78878a7acb4040af9ae707af6b44ae0be9c7e08df5297cae",
+      "source": "seen",
+      "row": {
+        "env": 5,
+        "morphology": "kuka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3123493194580078,
+          0.6528768539428711
+        ],
+        "events": [
+          {
+            "step": 78,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 153,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 195,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 219,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 326,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 329,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 447,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 471,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 577,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          195,
+          447
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "flexiv_allegro",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/flexiv_allegro.npz",
+      "sha256": "0c81a28537d8f109337ecbe13f174345bf86327ca01a7b7ee36dc613cbe49c21",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "franka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_sharpa.npz",
+      "sha256": "17efc430af9aba080ef8bc4093694982b1097ea251424af4ac014a5e2838b2b9",
+      "source": "unseen",
+      "row": {
+        "env": 19,
+        "morphology": "franka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3122568130493164,
+          0.6524512767791748
+        ],
+        "events": [
+          {
+            "step": 69,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 136,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 175,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 199,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 269,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 277,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 341,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 407,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 477,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          175,
+          383
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "flexiv_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_leap.npz",
+      "sha256": "e6b8b2318b2ee1fc6f462208b818d50f51d44aadba0a4e427e3eb6425ecffb93",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "franka_rapid",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_rapid.npz",
+      "sha256": "2cdad52166aa14a5da30b720ef002c281e7d6718d31bee7658e3006fb45ab81b",
+      "source": "seen",
+      "row": {
+        "env": 1,
+        "morphology": "franka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203556060791016,
+          0.6523065567016602
+        ],
+        "events": [
+          {
+            "step": 76,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 145,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 183,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 207,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 317,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 320,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 373,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 430,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 539,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          183,
+          406
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "xarm_leap",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/xarm_leap.npz",
+      "sha256": "533b8e6257c7446fdcb5dee9870532949244e4047af3bd8f59e28c19a3592da3",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "xarm_shadow",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/xarm_shadow.npz",
+      "sha256": "c2982da5270b92d331bed422ae287f39770de45b20210b6513fbb33877c5186f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "flexiv_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_shadow.npz",
+      "sha256": "0a2264360e2539d184fbbabd4e92b5d6c510eff89e0a4865fd58dfb37b4ace7b",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "xarm_sharpa",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/xarm_sharpa.npz",
+      "sha256": "91869f6e6093360562b5c592f51ea77ade5ac23680b5edf12d05fc3b9e51e69a",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "franka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_leap.npz",
+      "sha256": "86744850b73582c6e6ee896ce197ef8503160576233e7e7aaa909f47dccb6afc",
+      "source": "unseen",
+      "row": {
+        "env": 0,
+        "morphology": "franka_leap",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31279897689819336,
+          0.6526241302490234
+        ],
+        "events": [
+          {
+            "step": 73,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 129,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 166,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 190,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 260,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 268,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 320,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 359,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 453,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          166,
+          359
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "kuka_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_shadow.npz",
+      "sha256": "fcb9e509b7f78d9ec25d81b5673deb567bc505320c82eef3ce37f2a4735140d0",
+      "source": "unseen",
+      "row": {
+        "env": 3,
+        "morphology": "kuka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31241369247436523,
+          0.6564264297485352
+        ],
+        "events": [
+          {
+            "step": 70,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 163,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 226,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 250,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 328,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 340,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 426,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 492,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 516,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 595,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          226,
+          492
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "flexiv_rapid",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/flexiv_rapid.npz",
+      "sha256": "f359c3d3f157405482aa094d8dafb00e1829455f24efd6f00546e592465630e3",
+      "source": "seen",
+      "row": {
+        "env": 69,
+        "morphology": "flexiv_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31234264373779297,
+          0.6523857116699219
+        ],
+        "events": [
+          {
+            "step": 72,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 244,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 299,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 323,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 465,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 468,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 605,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 660,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 684,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 827,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          299,
+          660
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "franka_allegro",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/franka_allegro.npz",
+      "sha256": "0895310896b23abf2e4480e430acb85b5b8271c16895af93add135cfced83f9d",
+      "source": "seen",
+      "row": {
+        "env": 0,
+        "morphology": "franka_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31310558319091797,
+          0.6525030136108398
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 117,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 159,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 183,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 281,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 284,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 327,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 386,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 484,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          159,
+          362
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "xarm_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_rapid.npz",
+      "sha256": "0aae0247ed37d58c5ed3c7f554dd73f97676982f4b62c5c73126bf29ce6120d7",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "flexiv_revo3",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/flexiv_revo3.npz",
+      "sha256": "a49ea1cdfca6b8b7ebefe3eb1b81e1eeb574f48b3bd47171e898a13692a6707f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "franka_shadow",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/franka_shadow.npz",
+      "sha256": "2b43a2db75ee6e7b9a4c84aeb771746b991c35476b43665fa4aa47c263f2daa5",
+      "source": "seen",
+      "row": {
+        "env": 3,
+        "morphology": "franka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31252288818359375,
+          0.6526298522949219
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 130,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 162,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 186,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 286,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 289,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 351,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 384,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 408,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 478,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          162,
+          384
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "kuka_allegro",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/kuka_allegro.npz",
+      "sha256": "e571b4045b673b50cab590ce07d8d4e019d25b30297e9ba84e8766bf7313d7a3",
+      "source": "unseen",
+      "row": {
+        "env": 2,
+        "morphology": "kuka_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31232213973999023,
+          0.6526856422424316
+        ],
+        "events": [
+          {
+            "step": 82,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 138,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 180,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 204,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 276,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 282,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 340,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 407,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 479,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          180,
+          383
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "xarm_revo3",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_revo3.npz",
+      "sha256": "94cd5abfb8fc053a76ddca6e7c0d03d401f15db4df8ae049457778eba0bb5d14",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "franka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_sharpa.npz",
+      "sha256": "17efc430af9aba080ef8bc4093694982b1097ea251424af4ac014a5e2838b2b9",
+      "source": "unseen",
+      "row": {
+        "env": 19,
+        "morphology": "franka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3122568130493164,
+          0.6524512767791748
+        ],
+        "events": [
+          {
+            "step": 69,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 136,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 175,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 199,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 269,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 277,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 341,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 407,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 477,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          175,
+          383
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "kuka_revo3",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_revo3.npz",
+      "sha256": "4af5ee1e3591369ec6d3cf84ef8b8b250590329af64c6c8d52d22225413f6948",
+      "source": "seen",
+      "row": {
+        "env": 6,
+        "morphology": "kuka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3120555877685547,
+          0.6520042419433594
+        ],
+        "events": [
+          {
+            "step": 74,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 126,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 168,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 192,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 301,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 304,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 363,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 414,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 438,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 508,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          168,
+          414
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "xarm_allegro",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_allegro.npz",
+      "sha256": "47e8b039afd825818cd7c279ea949858b8890f9cc9f8917a032b248a97b8830f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "franka_rapid",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_rapid.npz",
+      "sha256": "2cdad52166aa14a5da30b720ef002c281e7d6718d31bee7658e3006fb45ab81b",
+      "source": "seen",
+      "row": {
+        "env": 1,
+        "morphology": "franka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203556060791016,
+          0.6523065567016602
+        ],
+        "events": [
+          {
+            "step": 76,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 145,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 183,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 207,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 317,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 320,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 373,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 430,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 539,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          183,
+          406
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "flexiv_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_leap.npz",
+      "sha256": "e6b8b2318b2ee1fc6f462208b818d50f51d44aadba0a4e427e3eb6425ecffb93",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "kuka_rapid",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/kuka_rapid.npz",
+      "sha256": "d285b0d8600e928c78878a7acb4040af9ae707af6b44ae0be9c7e08df5297cae",
+      "source": "seen",
+      "row": {
+        "env": 5,
+        "morphology": "kuka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3123493194580078,
+          0.6528768539428711
+        ],
+        "events": [
+          {
+            "step": 78,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 153,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 195,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 219,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 326,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 329,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 447,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 471,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 577,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          195,
+          447
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "franka_revo3",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/franka_revo3.npz",
+      "sha256": "0f3b004a0305c877191c0007b812d78dace4355d39d1d61653188309df790c92",
+      "source": "seen",
+      "row": {
+        "env": 2,
+        "morphology": "franka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3126811981201172,
+          0.6521062850952148
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 117,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 154,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 178,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 267,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 270,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 318,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 355,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 379,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 449,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          154,
+          355
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "xarm_leap",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/xarm_leap.npz",
+      "sha256": "533b8e6257c7446fdcb5dee9870532949244e4047af3bd8f59e28c19a3592da3",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "flexiv_allegro",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/flexiv_allegro.npz",
+      "sha256": "0c81a28537d8f109337ecbe13f174345bf86327ca01a7b7ee36dc613cbe49c21",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "kuka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_sharpa.npz",
+      "sha256": "d2b85b9c098efd114028890789809383931f23f845636238dd18c45c0b74983d",
+      "source": "seen",
+      "row": {
+        "env": 25,
+        "morphology": "kuka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203770637512207,
+          0.6525435447692871
+        ],
+        "events": [
+          {
+            "step": 82,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 135,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 174,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 198,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 308,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 311,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 402,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 426,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 496,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          174,
+          402
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "xarm_shadow",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/xarm_shadow.npz",
+      "sha256": "c2982da5270b92d331bed422ae287f39770de45b20210b6513fbb33877c5186f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "flexiv_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_shadow.npz",
+      "sha256": "0a2264360e2539d184fbbabd4e92b5d6c510eff89e0a4865fd58dfb37b4ace7b",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "kuka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_leap.npz",
+      "sha256": "7ca37e1a1e725d3325aa6ea478d271b61cd502373347779eab938d0a4d27e9a4",
+      "source": "seen",
+      "row": {
+        "env": 4,
+        "morphology": "kuka_leap",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3124980926513672,
+          0.6524639129638672
+        ],
+        "events": [
+          {
+            "step": 78,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 141,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 196,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 220,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 298,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 301,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 419,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 443,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 520,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          196,
+          419
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "xarm_revo3",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_revo3.npz",
+      "sha256": "94cd5abfb8fc053a76ddca6e7c0d03d401f15db4df8ae049457778eba0bb5d14",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "flexiv_rapid",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/flexiv_rapid.npz",
+      "sha256": "f359c3d3f157405482aa094d8dafb00e1829455f24efd6f00546e592465630e3",
+      "source": "seen",
+      "row": {
+        "env": 69,
+        "morphology": "flexiv_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31234264373779297,
+          0.6523857116699219
+        ],
+        "events": [
+          {
+            "step": 72,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 244,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 299,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 323,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 465,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 468,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 605,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 660,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 684,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 827,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          299,
+          660
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "flexiv_revo3",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/flexiv_revo3.npz",
+      "sha256": "a49ea1cdfca6b8b7ebefe3eb1b81e1eeb574f48b3bd47171e898a13692a6707f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "franka_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/franka_leap.npz",
+      "sha256": "86744850b73582c6e6ee896ce197ef8503160576233e7e7aaa909f47dccb6afc",
+      "source": "unseen",
+      "row": {
+        "env": 0,
+        "morphology": "franka_leap",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31279897689819336,
+          0.6526241302490234
+        ],
+        "events": [
+          {
+            "step": 73,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 129,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 166,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 190,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 260,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 268,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 320,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 359,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 453,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          166,
+          359
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "kuka_allegro",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/kuka_allegro.npz",
+      "sha256": "e571b4045b673b50cab590ce07d8d4e019d25b30297e9ba84e8766bf7313d7a3",
+      "source": "unseen",
+      "row": {
+        "env": 2,
+        "morphology": "kuka_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31232213973999023,
+          0.6526856422424316
+        ],
+        "events": [
+          {
+            "step": 82,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 138,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 180,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 204,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 276,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 282,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 340,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 407,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 479,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          180,
+          383
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "franka_allegro",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/franka_allegro.npz",
+      "sha256": "0895310896b23abf2e4480e430acb85b5b8271c16895af93add135cfced83f9d",
+      "source": "seen",
+      "row": {
+        "env": 0,
+        "morphology": "franka_allegro",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31310558319091797,
+          0.6525030136108398
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 117,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 159,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 183,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 281,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 284,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 327,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 386,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 484,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          159,
+          362
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "flexiv_sharpa",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/flexiv_sharpa.npz",
+      "sha256": "4a00bf2ffb8cb454df6502eaacce2963cbb28a9f4f3c0edd9d752b35002752d7",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "xarm_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/xarm_rapid.npz",
+      "sha256": "0aae0247ed37d58c5ed3c7f554dd73f97676982f4b62c5c73126bf29ce6120d7",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "xarm_sharpa",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/xarm_sharpa.npz",
+      "sha256": "91869f6e6093360562b5c592f51ea77ade5ac23680b5edf12d05fc3b9e51e69a",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "franka_shadow",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/franka_shadow.npz",
+      "sha256": "2b43a2db75ee6e7b9a4c84aeb771746b991c35476b43665fa4aa47c263f2daa5",
+      "source": "seen",
+      "row": {
+        "env": 3,
+        "morphology": "franka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31252288818359375,
+          0.6526298522949219
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 130,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 162,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 186,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 286,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 289,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 351,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 384,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 408,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 478,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          162,
+          384
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "kuka_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_shadow.npz",
+      "sha256": "fcb9e509b7f78d9ec25d81b5673deb567bc505320c82eef3ce37f2a4735140d0",
+      "source": "unseen",
+      "row": {
+        "env": 3,
+        "morphology": "kuka_shadow",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31241369247436523,
+          0.6564264297485352
+        ],
+        "events": [
+          {
+            "step": 70,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 163,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 226,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 250,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 328,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 340,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 426,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 492,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 516,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 595,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          226,
+          492
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "flexiv_leap",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_leap.npz",
+      "sha256": "e6b8b2318b2ee1fc6f462208b818d50f51d44aadba0a4e427e3eb6425ecffb93",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "kuka_revo3",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_revo3.npz",
+      "sha256": "4af5ee1e3591369ec6d3cf84ef8b8b250590329af64c6c8d52d22225413f6948",
+      "source": "seen",
+      "row": {
+        "env": 6,
+        "morphology": "kuka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3120555877685547,
+          0.6520042419433594
+        ],
+        "events": [
+          {
+            "step": 74,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 126,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 168,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 192,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 301,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 304,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 363,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 414,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 438,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 508,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          168,
+          414
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "flexiv_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_shadow.npz",
+      "sha256": "0a2264360e2539d184fbbabd4e92b5d6c510eff89e0a4865fd58dfb37b4ace7b",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "franka_revo3",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/franka_revo3.npz",
+      "sha256": "0f3b004a0305c877191c0007b812d78dace4355d39d1d61653188309df790c92",
+      "source": "seen",
+      "row": {
+        "env": 2,
+        "morphology": "franka_revo3",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3126811981201172,
+          0.6521062850952148
+        ],
+        "events": [
+          {
+            "step": 71,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 117,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 154,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 178,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 267,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 270,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 318,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 355,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 379,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 449,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          154,
+          355
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "flexiv_allegro",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/flexiv_allegro.npz",
+      "sha256": "0c81a28537d8f109337ecbe13f174345bf86327ca01a7b7ee36dc613cbe49c21",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "005_tomato_soup_can"
+    },
+    {
+      "pair": "xarm_allegro",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_allegro.npz",
+      "sha256": "47e8b039afd825818cd7c279ea949858b8890f9cc9f8917a032b248a97b8830f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "kuka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_sharpa.npz",
+      "sha256": "d2b85b9c098efd114028890789809383931f23f845636238dd18c45c0b74983d",
+      "source": "seen",
+      "row": {
+        "env": 25,
+        "morphology": "kuka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203770637512207,
+          0.6525435447692871
+        ],
+        "events": [
+          {
+            "step": 82,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 135,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 174,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 198,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 308,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 311,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 362,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 402,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 426,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 496,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          174,
+          402
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "xarm_shadow",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/xarm_shadow.npz",
+      "sha256": "c2982da5270b92d331bed422ae287f39770de45b20210b6513fbb33877c5186f",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "009_gelatin_box"
+    },
+    {
+      "pair": "kuka_rapid",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/kuka_rapid.npz",
+      "sha256": "d285b0d8600e928c78878a7acb4040af9ae707af6b44ae0be9c7e08df5297cae",
+      "source": "seen",
+      "row": {
+        "env": 5,
+        "morphology": "kuka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3123493194580078,
+          0.6528768539428711
+        ],
+        "events": [
+          {
+            "step": 78,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 153,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 195,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 219,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 326,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 329,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 447,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 471,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 577,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          195,
+          447
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    },
+    {
+      "pair": "franka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_sharpa.npz",
+      "sha256": "17efc430af9aba080ef8bc4093694982b1097ea251424af4ac014a5e2838b2b9",
+      "source": "unseen",
+      "row": {
+        "env": 19,
+        "morphology": "franka_sharpa",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.3122568130493164,
+          0.6524512767791748
+        ],
+        "events": [
+          {
+            "step": 69,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 136,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 175,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 199,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 269,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 277,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 341,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 383,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 407,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 477,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          175,
+          383
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "xarm_leap",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/xarm_leap.npz",
+      "sha256": "533b8e6257c7446fdcb5dee9870532949244e4047af3bd8f59e28c19a3592da3",
+      "source": "v2_original",
+      "low_home": false,
+      "next_object_id": "014_lemon"
+    },
+    {
+      "pair": "franka_rapid",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_rapid.npz",
+      "sha256": "2cdad52166aa14a5da30b720ef002c281e7d6718d31bee7658e3006fb45ab81b",
+      "source": "seen",
+      "row": {
+        "env": 1,
+        "morphology": "franka_rapid",
+        "success": true,
+        "cycles_success": [
+          true,
+          true
+        ],
+        "feed_displacement_m": [
+          0.31203556060791016,
+          0.6523065567016602
+        ],
+        "events": [
+          {
+            "step": 76,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 0
+          },
+          {
+            "step": 145,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 0
+          },
+          {
+            "step": 183,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 0
+          },
+          {
+            "step": 207,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 0
+          },
+          {
+            "step": 317,
+            "from_state": 4,
+            "to_state": 0,
+            "cycle": 1
+          },
+          {
+            "step": 320,
+            "from_state": 0,
+            "to_state": 1,
+            "cycle": 1
+          },
+          {
+            "step": 373,
+            "from_state": 1,
+            "to_state": 2,
+            "cycle": 1
+          },
+          {
+            "step": 406,
+            "from_state": 2,
+            "to_state": 3,
+            "cycle": 1
+          },
+          {
+            "step": 430,
+            "from_state": 3,
+            "to_state": 4,
+            "cycle": 1
+          },
+          {
+            "step": 539,
+            "from_state": 4,
+            "to_state": 5,
+            "cycle": 1
+          }
+        ],
+        "release_steps": [
+          183,
+          406
+        ],
+        "abnormal": false
+      },
+      "low_home": true,
+      "next_object_id": "013_apple"
+    }
+  ],
+  "coverage": 24,
+  "stations": 96,
+  "rows": 8,
+  "columns": 12,
+  "copies_per_embodiment": 4,
+  "frames": 444,
+  "objects": {
+    "013_apple": 24
+  },
+  "selection": "new low-home trajectories when available; prior validated fallback for missing low-home morphology",
+  "first": "franka_revo3",
+  "version": "two_target_objects_60_surprise_smooth30",
+  "object_policy": "primary and next meshes use balanced apple/lemon/tomato_soup_can/gelatin_box mapping; 1-3 additional queued YCB/RB objects per station",
+  "fps": 30,
+  "seconds": 14.8,
+  "camera_design": "slow front/acceleration for first three grasps; 1.0s final high-speed sweep; short stable wide",
+  "queued_object_motion": "queued objects follow recorded belt travel for up to 0.32m, then settle; lateral placement centered",
+  "queue_collision_policy": "non-grasped objects placed upstream with pairwise clearance and centered lateral offsets; belt follow capped for staging"
+}

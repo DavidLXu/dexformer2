@@ -1,0 +1,484 @@
+{
+  "clips": [
+    {
+      "pair": "franka_allegro",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_allegro.npz",
+      "sha256": "00b110549fa98625654ca96ffdcbc31181c1f6765e3327c6f755635c58361509",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 162,
+        "morphology": "franka_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 37,
+      "score": 0.003629950835945861,
+      "pickup_radius": 0.6036299508359458,
+      "support_edge_clearance": 0.20198823511499203
+    },
+    {
+      "pair": "franka_revo3",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_revo3.npz",
+      "sha256": "fcc0cf8fa2d734907670018e15f53c822d6ac24aca2bed0bac655eecdadca4b1",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 38,
+        "morphology": "franka_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 47,
+      "score": 0.012809279977771926,
+      "pickup_radius": 0.587190720022228,
+      "support_edge_clearance": 0.19121732505525277
+    },
+    {
+      "pair": "kuka_leap",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_leap.npz",
+      "sha256": "75f0a65c05c81746bb0645e263ad1ac94b468b9467d795d2426efdfc0d1d611a",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 202,
+        "morphology": "kuka_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 59,
+      "score": 0.029898803389274642,
+      "pickup_radius": 0.6298988033892746,
+      "support_edge_clearance": 0.241262741974815
+    },
+    {
+      "pair": "kuka_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_sharpa.npz",
+      "sha256": "4c43d12bb17649cf3102a3a83dfd027a20c38ccb5a0872a76b89aed84a5255dd",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 97,
+        "morphology": "kuka_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 46,
+      "score": 0.0026743118022699575,
+      "pickup_radius": 0.6026743118022699,
+      "support_edge_clearance": 0.22077165482815458
+    },
+    {
+      "pair": "xarm_leap",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_leap.npz",
+      "sha256": "ce8d0a3530e686de9776430bb80440b2d173dd6594e242af1243896e613d89d7",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 134,
+        "morphology": "xarm_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 20,
+      "score": 0.00034656595494564346,
+      "pickup_radius": 0.6003465659549456,
+      "support_edge_clearance": 0.22556847958428572
+    },
+    {
+      "pair": "flexiv_rapid",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/flexiv_rapid.npz",
+      "sha256": "1582ad7782628d968dcb50cb87f282c971aee2996062abe533ac64389f3134a0",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 105,
+        "morphology": "flexiv_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 48,
+      "score": 0.0003326600328225071,
+      "pickup_radius": 0.5996673399671775,
+      "support_edge_clearance": 0.24188500988410253
+    },
+    {
+      "pair": "franka_rapid",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/franka_rapid.npz",
+      "sha256": "f9322f28e5a3f01b6d0c1f841a6c585194636974fdb0b6e4d1033af076a8de5b",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 19,
+        "morphology": "franka_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 38,
+      "score": 0.0025610685516833653,
+      "pickup_radius": 0.5974389314483166,
+      "support_edge_clearance": 0.23281351312198512
+    },
+    {
+      "pair": "franka_shadow",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/franka_shadow.npz",
+      "sha256": "cc9cbfa2521a516fdf7fa64bf2d8a0de63908f4276102c51dec236a38790976d",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 147,
+        "morphology": "franka_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 37,
+      "score": 0.00729396868201404,
+      "pickup_radius": 0.5927060313179859,
+      "support_edge_clearance": 0.22579815294211747
+    },
+    {
+      "pair": "kuka_rapid",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_rapid.npz",
+      "sha256": "a9360ec96d111cd5e5678019783616c1b3d35e40a52c41c1433e56ed229ae391",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 167,
+        "morphology": "kuka_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 42,
+      "score": 0.006714404961367437,
+      "pickup_radius": 0.5932855950386325,
+      "support_edge_clearance": 0.21765656326869404
+    },
+    {
+      "pair": "xarm_allegro",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/xarm_allegro.npz",
+      "sha256": "68dc9fb232a4dfb7c0d09368de5a84508442b2e21eb6e1be959b7a74043161d0",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 99,
+        "morphology": "xarm_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 20,
+      "score": 0.008292464614385708,
+      "pickup_radius": 0.6082924646143857,
+      "support_edge_clearance": 0.23317864708938826
+    },
+    {
+      "pair": "xarm_sharpa",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_sharpa.npz",
+      "sha256": "694b0f02c619b2f26051a9b55e31447395f2acbf66dc49653d4c82de107098bf",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 84,
+        "morphology": "xarm_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 20,
+      "score": 0.004960124008500988,
+      "pickup_radius": 0.595039875991499,
+      "support_edge_clearance": 0.2432458150953714
+    },
+    {
+      "pair": "kuka_revo3",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/kuka_revo3.npz",
+      "sha256": "ce24742bd1797ba331a397823c3e573e17487d4007faa03bacad1070fdd7a0e4",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 114,
+        "morphology": "kuka_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 50,
+      "score": 0.0014587152641228895,
+      "pickup_radius": 0.5985412847358771,
+      "support_edge_clearance": 0.20863613626710165
+    },
+    {
+      "pair": "xarm_revo3",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_revo3.npz",
+      "sha256": "cecd3e430cf1ff8f361ab69b8784f7c961a4133a95d2acdce8224b98b1555508",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 208,
+        "morphology": "xarm_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 20,
+      "score": 0.0029188419397363496,
+      "pickup_radius": 0.5970811580602636,
+      "support_edge_clearance": 0.2041258218552956
+    },
+    {
+      "pair": "flexiv_allegro",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/flexiv_allegro.npz",
+      "sha256": "407d855727bc1c5e8bc6d3dcf385c4fec4e4aff63c54416aa090b8396bb11224",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 194,
+        "morphology": "flexiv_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 37,
+      "score": 0.004752894676324115,
+      "pickup_radius": 0.5952471053236759,
+      "support_edge_clearance": 0.2108448688312533
+    },
+    {
+      "pair": "xarm_shadow",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/xarm_shadow.npz",
+      "sha256": "7570c86dcc3afecc783451145a4ae64f29b2a4739b111f3999e2f308b35c4dfb",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 101,
+        "morphology": "xarm_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 20,
+      "score": 0.0006360633805641003,
+      "pickup_radius": 0.6006360633805641,
+      "support_edge_clearance": 0.2277321655881509
+    },
+    {
+      "pair": "flexiv_leap",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/flexiv_leap.npz",
+      "sha256": "86b7c31d6eea48b34a333f913b7cfe7e1505c434dcdb470cc64457a83a81a660",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 139,
+        "morphology": "flexiv_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 35,
+      "score": 0.0009167084770869138,
+      "pickup_radius": 0.6009167084770869,
+      "support_edge_clearance": 0.22450076605013203
+    },
+    {
+      "pair": "flexiv_sharpa",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_sharpa.npz",
+      "sha256": "e00a8c097e4d122c940b860bfa08c5b4ce6ffb5d9a57aaa4fc5be06c1d835940",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 17,
+        "morphology": "flexiv_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 37,
+      "score": 0.008643000795185873,
+      "pickup_radius": 0.6086430007951859,
+      "support_edge_clearance": 0.21803608491763238
+    },
+    {
+      "pair": "flexiv_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/flexiv_shadow.npz",
+      "sha256": "3f64bf3c9db22ad0b16b8e2d0de2147ca5ee3a2c8dc6742003aa6feee72816b1",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 34,
+        "morphology": "flexiv_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 44,
+      "score": 0.005139906098308278,
+      "pickup_radius": 0.6051399060983083,
+      "support_edge_clearance": 0.22154012672847864
+    },
+    {
+      "pair": "kuka_allegro",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_allegro.npz",
+      "sha256": "80ef0807845179514c0a85b2b9bda0bd0003a1cef5ea93eae2a598c5cba6cc22",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 8,
+        "morphology": "kuka_allegro",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 54,
+      "score": 0.006211152089419025,
+      "pickup_radius": 0.593788847910581,
+      "support_edge_clearance": 0.23318531439103157
+    },
+    {
+      "pair": "franka_sharpa",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/franka_sharpa.npz",
+      "sha256": "0af0d5708e63e702781eee70ae77ba1a2efd0c107fdc0343cacfbdbfa7ee484e",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 25,
+        "morphology": "franka_sharpa",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 41,
+      "score": 0.015611812187302676,
+      "pickup_radius": 0.5843881878126973,
+      "support_edge_clearance": 0.17047614909892522
+    },
+    {
+      "pair": "xarm_rapid",
+      "object_id": "005_tomato_soup_can",
+      "file": "$CLIPS/xarm_rapid.npz",
+      "sha256": "1ac8cece44af9595ae6d5d120aee35bc1b71b40ee6a1811e458c7f7bef04979b",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 22,
+        "morphology": "xarm_rapid",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 20,
+      "score": 0.0003983447976697585,
+      "pickup_radius": 0.5996016552023302,
+      "support_edge_clearance": 0.18813563117691934
+    },
+    {
+      "pair": "flexiv_revo3",
+      "object_id": "009_gelatin_box",
+      "file": "$CLIPS/flexiv_revo3.npz",
+      "sha256": "73c172e1ef28496c54964020cc73d6ff8aad1ccc9dca4b1eaab67d5417509636",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 65,
+        "morphology": "flexiv_revo3",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 47,
+      "score": 0.033592415851886104,
+      "pickup_radius": 0.5664075841481139,
+      "support_edge_clearance": 0.2131615211779428
+    },
+    {
+      "pair": "franka_leap",
+      "object_id": "014_lemon",
+      "file": "$CLIPS/franka_leap.npz",
+      "sha256": "78cf9722a883877f032ef3fd0284444abd8345da94d641ff277589255196bf43",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 36,
+        "morphology": "franka_leap",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 45,
+      "score": 0.04844877093955402,
+      "pickup_radius": 0.551551229060446,
+      "support_edge_clearance": 0.21260051240725347
+    },
+    {
+      "pair": "kuka_shadow",
+      "object_id": "013_apple",
+      "file": "$CLIPS/kuka_shadow.npz",
+      "sha256": "e28a7aad2f39478133a8f71cc463869134ac77b8a9f7c6e5feaddebaa5c32700",
+      "source": "source-record/summary.json",
+      "row": {
+        "env": 45,
+        "morphology": "kuka_shadow",
+        "lift_success": true,
+        "over_bin_at_open": true,
+        "bin_settled": true,
+        "success": true,
+        "abnormal": false
+      },
+      "source_start": 48,
+      "score": 0.15881926103690208,
+      "pickup_radius": 0.4411807389630979,
+      "support_edge_clearance": 0.16366730603857077
+    }
+  ]
+}

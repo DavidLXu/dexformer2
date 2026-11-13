@@ -1,0 +1,11 @@
+# Versions used for local validation on Python 3.11; install from a source checkout.
+bpy==4.5.3
+numpy==1.26.4
+scipy==1.17.1
+Pillow==13.0.0
+imageio-ffmpeg==0.8.1
+pytest==9.2.0
+zstandard==0.25.0
+requests==2.34.2
+Cython==3.3.1
+-e .

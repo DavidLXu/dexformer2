@@ -1,0 +1,9 @@
+{
+  "variant": "morph16_healthy",
+  "iteration": 5000,
+  "sha256": "c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e",
+  "included": false,
+  "required_for": "New policy inference/recording only; not trajectory replay/rendering",
+  "public_download_url": null,
+  "upstream": "https://github.com/DavidLXu/dexformer2"
+}

@@ -1,0 +1,5 @@
+# Keep upstream license/notice snapshots byte-for-byte, including CRLF and spaces.
+docs/licenses/* -text -whitespace
+*.npz binary
+*.png binary
+*.jpg binary
