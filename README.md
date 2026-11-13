@@ -1,5 +1,11 @@
 # DexFormer Video Studio
 
+> **Project status / 项目状态**
+>
+> This repository currently contains only the rendering scripts and supporting recorded trajectories for DexFormer 2.0 promotional videos. The full project code will be organized and added here in a future update.
+>
+> 目前仓库仅包含 DexFormer 2.0 宣传视频的渲染脚本及配套轨迹数据，后续会将完整项目代码整理并更新到此仓库。
+
 Native Blender rendering recipes for **five DexFormer 2.0 demonstration films**, plus individual apple-grasp exports for all **24 arm–hand combinations**. The repository contains recorded trajectories, camera/reveal choreography, scene assembly, bounded-memory rendering, video encoding, and playback-speed annotations.
 
 **This is a rendering/replay repository.** Selected successful independent rollouts are staged into scenes. Depending on the recording, transfer/release uses external IK and scripted control. Camera motion, repeated packing cycles and conveyor scheduling are scripted. The films are illustrative demonstrations, not simultaneous multi-robot evaluations or success-rate evidence. See [control boundaries](docs/control-boundaries.md).
