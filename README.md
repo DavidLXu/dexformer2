@@ -1,10 +1,12 @@
-# DexFormer Video Studio
+# DexFormer 2.0
 
 > **Project status / 项目状态**
 >
 > This repository currently contains only the rendering scripts and supporting recorded trajectories for DexFormer 2.0 promotional videos. The full project code will be organized and added here in a future update.
 >
 > 目前仓库仅包含 DexFormer 2.0 宣传视频的渲染脚本及配套轨迹数据，后续会将完整项目代码整理并更新到此仓库。
+
+[Project website](https://davidlxu.github.io/dexformer2-web/) · [Website source](https://github.com/DavidLXu/dexformer2-web)
 
 Native Blender rendering recipes for **five DexFormer 2.0 demonstration films**, plus individual apple-grasp exports for all **24 arm–hand combinations**. The repository contains recorded trajectories, camera/reveal choreography, scene assembly, bounded-memory rendering, video encoding, and playback-speed annotations.
 
@@ -34,8 +36,8 @@ The ring recipe contains 12 successful configurations across four arms and five 
 Use a source checkout and Python **3.11**, with Blender's `bpy` **4.5.3** runtime:
 
 ```bash
-git clone https://github.com/DavidLXu/DexFormer-Video-Studio.git
-cd DexFormer-Video-Studio
+git clone https://github.com/DavidLXu/dexformer2.git
+cd dexformer2
 python3.11 -m venv .venv
 source .venv/bin/activate
 python -m pip install -e '.[render,dev]'

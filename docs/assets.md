@@ -54,6 +54,6 @@ The recordings use `morph16_healthy`, iteration **5000**:
 SHA-256 c68cb4c3fbba4bee2f6cc7078ead267a90a76c7c27c71f7d6b81860042a7c41e
 ```
 
-`manifests/checkpoint.json` intentionally has no public download URL. No weight file is bundled. Replay needs only the saved numeric trajectories. New inference requires the exact weights plus matching observation normalization, action definitions, embodiment configuration, policy implementation and simulation environment from the [DexFormer project](https://github.com/DavidLXu/dexformer2). This repository does not claim that a weight file alone reproduces those rollouts.
+`manifests/checkpoint.json` intentionally has no public download URL. No weight file is bundled. Replay needs only the saved numeric trajectories. New inference requires the exact weights plus matching observation normalization, action definitions, embodiment configuration, policy implementation and simulation environment. These are not included in the current release; the full project code is planned for this repository. This repository does not claim that a weight file alone reproduces those rollouts.
 
 If model weights or a fully cleared asset bundle are later released, host the versioned large files in a GitHub Release or model/dataset host and add their immutable URLs and hashes. Keep them out of ordinary Git history.
