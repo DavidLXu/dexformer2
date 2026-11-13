@@ -72,4 +72,3 @@ def animate_pos(obj,positions,frames,action):
   f=action.fcurves.new(data_path='location',index=k);f.keyframe_points.add(len(frames));f.keyframe_points.foreach_set('co',np.c_[frames,positions[:,k]].ravel())
   for kp in f.keyframe_points:kp.interpolation='LINEAR'
   f.update()
-
