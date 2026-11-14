@@ -18,7 +18,7 @@ Textured tree, a scripted falling apple and a continuous camera handoff to the r
 
 ![Ring](previews/ring.jpg)
 
-Four-object sequences on12 selected configurations, coordinated variable playback,60fps native scene sampling.
+Four-object sequences on 12 selected configurations, coordinated variable playback, 60 fps native scene sampling.
 
 ## Long-table relay
 
@@ -30,4 +30,4 @@ Four-object sequences on12 selected configurations, coordinated variable playbac
 
 ![Order packing](previews/order-packing.jpg)
 
-30seconds,24object types, longer side feeders and seven boxes five stations apart. Optional actual per-action speed annotations.
+30 seconds, 24 object types, longer side feeders and seven boxes five stations apart. Optional actual per-action speed annotations.
